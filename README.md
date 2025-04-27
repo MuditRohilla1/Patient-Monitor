@@ -41,8 +41,8 @@
   <h3>Backend Setup</h3>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/yourusername/predictive-health-monitoring.git
-cd predictive-health-monitoring</code></pre>
+      <pre><code>[git clone https://github.com/yourusername/predictive-health-monitoring.git
+cd predictive-health-monitoring](https://github.com/MuditRohilla1/Patient-Monitor.git)</code></pre>
     </li>
     <li>Install the necessary dependencies for the <strong>Python</strong> backend:
       <pre><code>cd backend
